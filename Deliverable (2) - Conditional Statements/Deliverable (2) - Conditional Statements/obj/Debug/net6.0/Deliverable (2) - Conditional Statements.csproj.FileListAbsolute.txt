@@ -1,0 +1,15 @@
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/bin/Debug/net6.0/Deliverable (2) - Conditional Statements
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/bin/Debug/net6.0/Deliverable (2) - Conditional Statements.deps.json
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/bin/Debug/net6.0/Deliverable (2) - Conditional Statements.runtimeconfig.json
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/bin/Debug/net6.0/Deliverable (2) - Conditional Statements.dll
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/bin/Debug/net6.0/Deliverable (2) - Conditional Statements.pdb
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/obj/Debug/net6.0/Deliverable (2) - Conditional Statements.csproj.AssemblyReference.cache
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/obj/Debug/net6.0/Deliverable (2) - Conditional Statements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/obj/Debug/net6.0/Deliverable (2) - Conditional Statements.AssemblyInfoInputs.cache
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/obj/Debug/net6.0/Deliverable (2) - Conditional Statements.AssemblyInfo.cs
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/obj/Debug/net6.0/Deliverable (2) - Conditional Statements.csproj.CoreCompileInputs.cache
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/obj/Debug/net6.0/Deliverable (2) - Conditional Statements.dll
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/obj/Debug/net6.0/refint/Deliverable (2) - Conditional Statements.dll
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/obj/Debug/net6.0/Deliverable (2) - Conditional Statements.pdb
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/obj/Debug/net6.0/Deliverable (2) - Conditional Statements.genruntimeconfig.cache
+/Users/adrianaalcocer/Desktop/Deliverable (2) - Conditional Statements/Deliverable (2) - Conditional Statements/obj/Debug/net6.0/ref/Deliverable (2) - Conditional Statements.dll
